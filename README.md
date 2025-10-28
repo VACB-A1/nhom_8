@@ -10,6 +10,12 @@ nhóm 8 chúng tôi thực hiện xây dựng mô hình học sâu đưa ra phâ
 với nguồn dữ liệu thì chúng tôi tham khảo qua https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia hoặc https://aimi.stanford.edu/datasets/chexpert-chest-x-rays với bao gồm 3 thư mục chính train, test, val...
 
 - Mỗi loại mô hình chúng tôi đưa vào sử dụng và đánh giá kết quả có trong report_nhom8.pdf
+- Cách sử dụng mô hình đã được chúng tôi huấn luyện trước đó
+- ví dụ 
+
+model = load_model("/Users/macbook/Downloads/resnet_pneumonia_model_3.h5")
+print("Mô hình đã tải thành công!")
+model.summary()
 
 
 !!!!!! Tài liệu và mô hình chúng tôi xây dựng chỉ mang tính chất tham khảo và học hỏi về hệ thống AI,chúng tôi không khuyến khích đưa sử dụng vào thực tế!!!!!!!
