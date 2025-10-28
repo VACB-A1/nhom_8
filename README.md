@@ -6,7 +6,7 @@
 
 
 
-nhóm 8 chúng tôi thực hiện xây dựng mô hình học sâu đưa ra phân tích và dự đoán AI 
+nhóm 8 chúng tôi thực hiện xây dựng mô hình học sâu đưa ra phân tích và dự đoán viêm phổi
 với nguồn dữ liệu thì chúng tôi tham khảo qua https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia hoặc https://aimi.stanford.edu/datasets/chexpert-chest-x-rays với bao gồm 3 thư mục chính train, test, val...
 
 - Mỗi loại mô hình chúng tôi đưa vào sử dụng và đánh giá kết quả có trong report_nhom8.pdf
