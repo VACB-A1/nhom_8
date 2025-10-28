@@ -10,6 +10,9 @@ với nguồn dữ liệu thì chúng tôi tham khảo qua https://www.kaggle.co
 - Tài liệu và mô hình chúng tôi xây dựng chỉ mang tính chất tham khảo và học hỏi về hệ thống AI,chúng tôi không khuyến khích đưa sử dụng vào thực tế.
   
 ----------website---------
+
+
+
 <img width="486" height="349" alt="image" src="https://github.com/user-attachments/assets/178ed6a7-9820-456c-866b-bdf965c135a5" />
 
 - về giao diện và phần mã xử lý chúng tôi để ở trong google drive https://drive.google.com/drive/folders/1gymbcyCX8209m-3ml8NoQmAiwPP_XjFo?usp=sharing
