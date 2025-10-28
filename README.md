@@ -2,6 +2,9 @@
 ---------Mô hình học máy----------
 
 
+<img width="513" height="175" alt="image" src="https://github.com/user-attachments/assets/6893efd0-dacb-4281-93e7-9a2ef43f9431" />
+
+
 
 nhóm 8 chúng tôi thực hiện xây dựng mô hình học sâu đưa ra phân tích và dự đoán AI 
 với nguồn dữ liệu thì chúng tôi tham khảo qua https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia hoặc https://aimi.stanford.edu/datasets/chexpert-chest-x-rays với bao gồm 3 thư mục chính train, test, val...
@@ -17,10 +20,8 @@ với nguồn dữ liệu thì chúng tôi tham khảo qua https://www.kaggle.co
 
 - về giao diện và phần mã xử lý chúng tôi để ở trong google drive https://drive.google.com/drive/folders/1gymbcyCX8209m-3ml8NoQmAiwPP_XjFo?usp=sharing
 
-Bài sử dụng model efficientnetB0 làm model phân tích dữ liệu
+- websites chúng tôi sử dụng model efficientnetB0 làm model phân tích và đưa ra dự đoán bênh nhân bị viêm hay không???
 
-chạy BE sài lệnh " uvicorn app:app --reload  "
+- với backend thì dùng terminal " uvicorn app:app --reload  " và frontend thì dùng terminal nhập lệnh  " npm run dev "
 
-Sau đó FE chạy " npm run dev "
 
-Sau đó chỉ cần upload ảnh và nhấn là chạy
