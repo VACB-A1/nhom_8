@@ -1,4 +1,4 @@
-# nhom_8_ Pháp_Tân_ Hoàng Anh
+# nhom_8_Pháp_Tân_ Hoàng Anh
 ---------Mô hình học máy----------
 
 
