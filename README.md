@@ -14,7 +14,7 @@ với nguồn dữ liệu thì chúng tôi tham khảo qua https://www.kaggle.co
 - ví dụ 
 
 model = load_model("/Users/macbook/Downloads/resnet_pneumonia_model_3.h5")
-print("Mô hình đã tải thành công!")
+
 model.summary()
 
 
