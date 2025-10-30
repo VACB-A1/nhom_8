@@ -24,7 +24,7 @@ model.summary()
   
 ----------website---------
 
-
+https://vacba1.com/
 
 <img width="486" height="349" alt="image" src="https://github.com/user-attachments/assets/178ed6a7-9820-456c-866b-bdf965c135a5" />
 
