@@ -1,4 +1,9 @@
 # nhom_8_Pháp_Tân_ Hoàng Anh
+
+
+![person1954_bacteria_4886](https://github.com/user-attachments/assets/975c3e5e-3efa-4e61-a8cf-cb423a0d914d)
+
+
 ---------Mô hình học máy----------
 
 
