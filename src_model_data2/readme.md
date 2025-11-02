@@ -5,6 +5,30 @@
 <img width="1155" height="801" alt="image" src="https://github.com/user-attachments/assets/00858ea4-fb9c-4fff-a2cd-0d5fce178c86" />
 
 - Đồng thời để có thể đưa ra kết quả mô hình với độ chính xác cao nhất thì chúng tôi đã cải thiện và cập nhập thêm tính năng xác thực chéo (cross-validation) cho 4 mô hình mỗi mô hình để khắc phục tình trạng kết quả phụ thuộc vào cách chia dữ liệu
-- 
+- Fold
+Dùng để train
+Dùng để validation
+Test
+Fold 1
+80% Train+Val
+20% Train+Val
+100% Test
+Fold 2
+80% Train+Val
+20% Train+Val
+100% Test
+Fold 3
+80% Train+Val
+20% Train+Val
+100% Test
+Fold 4
+80% Train+Val
+20% Train+Val
+100% Test
+Fold 5
+80% Train+Val
+20% Train+Val
+100% Test
+
 
  
