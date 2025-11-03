@@ -4,8 +4,8 @@
 - Để có thể dữ liệu được đảm bảo trong tình trạng tốt thì chúng tôi đã có vài phương pháp lọc qua bằng công nghệ riêng và người có chuyên môn giúp đỡ https://drive.google.com/file/d/1YsAd3e9WOaCFXJLcIlnfHpxlisds_vmt/view?usp=sharing và cả đường dẫn hình ảnh đã được chúng tôi ghi nhận những trường hợp viêm phổi do viêm khuẩn xâm hại và virus, và những ca bệnh bình thường bằng công Grad-cam
 <img width="1155" height="801" alt="image" src="https://github.com/user-attachments/assets/00858ea4-fb9c-4fff-a2cd-0d5fce178c86" />
 
-- Đồng thời để có thể đưa ra kết quả mô hình với độ chính xác cao nhất thì chúng tôi đã cải thiện và cập nhập thêm tính năng xác thực chéo (cross-validation) cho 4 mô hình mỗi mô hình để khắc phục tình trạng kết quả phụ thuộc vào cách chia dữ liệu
-  Với 5 fold thì chúng tôi chia như sau:
+- Đồng thời để có thể đưa ra kết quả mô hình với độ chính xác cao nhất thì chúng tôi đã cải thiện và cập nhập thêm tính năng xác thực chéo (cross-validation) để khắc phục tình trạng kết quả phụ thuộc vào cách chia dữ liệu
+  Với 5 fold của resnet50 thì chúng tôi chia như sau:
 <img width="838" height="264" alt="image" src="https://github.com/user-attachments/assets/806bb0d3-2a25-4a8f-b72c-8fc56891df00" />
 
  
